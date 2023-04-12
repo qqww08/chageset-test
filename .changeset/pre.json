@@ -1,6 +1,6 @@
 {
   "mode": "pre",
-  "tag": "staging",
+  "tag": "next",
   "initialVersions": {
     "@acme/docs": "0.0.0",
     "@acme/core": "0.0.1",
