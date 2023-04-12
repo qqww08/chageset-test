@@ -1,0 +1,12 @@
+{
+  "mode": "pre",
+  "tag": "staging",
+  "initialVersions": {
+    "@acme/docs": "0.0.0",
+    "@acme/core": "0.0.1",
+    "@acme/tsconfig": "0.0.0",
+    "@acme/utils": "0.0.0",
+    "eslint-config-acme": "0.0.0"
+  },
+  "changesets": []
+}
